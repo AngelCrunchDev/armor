@@ -4,7 +4,6 @@
 /* Standard：Google
 /*
 /*/
-
 /*******************
     branding head
   *******************/
@@ -407,7 +406,7 @@
     color: #999;
     font-size: 14px;
     line-height: 14px;
-    font-family: "source-code-pro","PingHei","Lucida Grande","sans-serif";
+    font-family: "PingHei","Lucida Grande","sans-serif";
     margin-top: 4px;
 }
 
@@ -448,7 +447,7 @@
 .invest-info .questions-answers h1 {
     line-height:24px;
     margin-top:9px;
-    font-family: "source-code-pro","PingHei","Lucida Grande","sans-serif";
+    font-family: "PingHei","Lucida Grande","sans-serif";
 }
 
 .invest-info .funds p:last-child {
@@ -478,11 +477,12 @@
     display: inline-block;
     width: 16px;
     height: 16px;
-    font-size:16px;
-    line-height: 16px;
+    font-size:12px;
+    line-height: 18px;
+    vertical-align: middle;
     color: #FFF;
     text-align: center;
-    font-family: "source-code-pro","PingHei","Lucida Grande","sans-serif";
+    font-family: "PingHei","Lucida Grande","sans-serif";
     border-radius: 2px;
     margin-right: 2px;
     background: #E3E3E3;
@@ -492,10 +492,11 @@
     position:absolute;
     display: inline-block;
     height:16px;
-    font-size: 14px;
+    font-size:12px;
     line-height: 18px;
+    vertical-align: middle;
     color: #FFF;
-    font-family: "source-code-pro","PingHei","Lucida Grande","sans-serif";
+    font-family: "PingHei","Lucida Grande","sans-serif";
     padding:0 6px;
     margin-left:18px;
     border-radius: 2px;
